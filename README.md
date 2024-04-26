@@ -1,1 +1,6 @@
+# sistema de cadastro de kogos
+> status do projeto: Em desenvolvimento
+digite:
+...
 node app.js
+...
